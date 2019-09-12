@@ -1,5 +1,7 @@
 # Few-shot face translation ![Source face: Mona Lisa](https://github.com/shaoanlu/fewshot-face-translation-GAN/raw/master/images/translation_results/MonaLisa_translation.gif)
 
+<a href="https://open-app.runwayml.com/?model=runway/Few-Shot-Face-Translation-GAN" target="_blank"><img src="https://runway.nyc3.cdn.digitaloceanspaces.com/assets/github/open-runway-badge.png" width=120/></a>
+
 A GAN based approach for one model to swap them all. 
 
 The table below shows our priliminary face-swapping results requiring one source face and <=5 target face photos. Notice that almost all of the identities, except Stephen Curry, are not in our training data (which is a subset of [VGGFace2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)). More translation results can be found [here](https://github.com/shaoanlu/fewshot-face-translation-GAN/tree/master/images/translation_results).
