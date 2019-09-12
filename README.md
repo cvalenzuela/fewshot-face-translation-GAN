@@ -1,6 +1,6 @@
 # Few-shot face translation ![Source face: Mona Lisa](https://github.com/shaoanlu/fewshot-face-translation-GAN/raw/master/images/translation_results/MonaLisa_translation.gif)
 
-<a href="https://open-app.runwayml.com/?model=runway/Few-Shot-Face-Translation-GAN" target="_blank"><img src="https://runway.nyc3.cdn.digitaloceanspaces.com/assets/github/open-runway-badge.png" width=120/></a>
+<a href="https://open-app.runwayml.com/?model=runway/Few-Shot-Face-Translation-GAN" target="_blank"><img src="https://open-app.runwayml.com/gh-badge.png" width=120/></a>
 
 A GAN based approach for one model to swap them all. 
 
